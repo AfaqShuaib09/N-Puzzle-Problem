@@ -1,0 +1,10 @@
+1,4,2,3,7,5,6,0,8
+A* Search with no. Of misplaced tiles: Up-> Up-> Left, Cost: 3
+A* Search with total Manhattan Distance: Up-> Up-> Left, Cost: 3
+Greedy Search with no. Of misplaced tiles : Up-> Up-> Left, Cost: 3
+Greedy Search with total Manhattan Distance : Up-> Up-> Left, Cost: 3
+1,2,3,0,4,5,6,7,8
+A* Search with no. Of misplaced tiles: Up-> Right-> Right-> Down-> Left-> Up-> Left-> Down-> Right-> Right-> Up-> Left-> Left, Cost: 13
+A* Search with total Manhattan Distance: Up-> Right-> Right-> Down-> Left-> Up-> Left-> Down-> Right-> Right-> Up-> Left-> Left, Cost: 13
+Greedy Search with no. Of misplaced tiles : Right-> Up-> Right-> Down-> Left-> Up-> Left-> Down-> Right-> Right-> Up-> Left-> Left-> Down-> Right-> Up-> Right-> Down-> Left-> Left-> Up-> Right-> Down-> Right-> Up-> Left-> Left, Cost: 27
+Greedy Search with total Manhattan Distance : Right-> Right-> Up-> Left-> Down-> Right-> Up-> Left-> Left-> Down-> Right-> Right-> Up-> Left-> Left-> Down-> Right-> Up-> Right-> Down-> Left-> Left-> Up-> Right-> Down-> Right-> Up-> Left-> Left, Cost: 29
